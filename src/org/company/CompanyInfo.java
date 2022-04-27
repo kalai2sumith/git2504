@@ -8,6 +8,10 @@ public class CompanyInfo {
 		System.out.println("company Id is 14525254");
 
 	}
+	private void salary() {
+		System.out.println(" company salary 250000000000000");
+
+	} 
 	private void CompanyAddress() {
 	System.out.println("company address is chennai");
 
