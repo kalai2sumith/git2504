@@ -6,8 +6,12 @@ public class CompanyInfo {
 	}
 	private void CompanyId() {
 		System.out.println("company Id is 14525254");
+	}
+	private void salary() {
+               System.out.println("kalai");
 
 	}
+	
 	private void CompanyAddress() {
 	System.out.println("company address is chennai");
 
